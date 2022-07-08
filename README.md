@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Rahul Vishwakarma
-- 👀 I’m interested in Web Development
-- 🌱 I’m currently learning React, Node js
+- 👀 I’m interested in Coding, Web Development
+- 🌱 I’m currently persuing Computer Engineering Degree from Goa College of Engineering.
 - 📫 How to reach me 
      rahulvishwakarma1181@gmail.com
 
