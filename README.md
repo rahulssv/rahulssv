@@ -10,10 +10,8 @@ You can click the Preview link to take a look at your changes.
 
 
 ### About me :eyes:
-- 👀 I’m interested in Coding, Web Development
-- 🌱 I’m currently persuing Computer Engineering Degree from Goa College of Engineering.
-- 📫 How to reach me 
-     rahulvishwakarma1181@gmail.com
+ -Computer Engineering Degree from Goa College of Engineering.
+
 
 <img width="60%" src="https://github-readme-stats.vercel.app/api?username=rahulssv&show_icons=true&theme=tokyonight" />
 
