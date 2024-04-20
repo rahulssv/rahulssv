@@ -1,17 +1,9 @@
 
-
-<!---
-rahulssv/rahulssv is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
-### Hey 👋, I'm [Rahul Vishwakarma]👨‍💻
-
-
-
+### Hey 👋, I'm **Rahul Vishwakarma** 👨‍💻
 
 ### About me :eyes:
   - 👨‍🎓Computer Engineering Student from Goa College of Engineering.
-
+  - Software Engineer @ Persistent Systems LTD
 
 <img width="60%" src="https://github-readme-stats.vercel.app/api?username=rahulssv&show_icons=true&theme=tokyonight" />
 
@@ -42,7 +34,3 @@ You can click the Preview link to take a look at your changes.
 
 [![@rahulssv's Holopin board](https://holopin.io/api/user/board?user=rahulssv)](https://holopin.io/@rahulssv)
 
-### Yo! Look at this snake eating up my contributions! <img src= "https://c.tenor.com/BczFoyx41WoAAAAj/swallowed-the-mighty-ones.gif" width= "30" height= "30">  :
- ![Snake animation](https://github.com/rahulssv/rahulssv/blob/output/github-contribution-grid-snake.svg)
-
-generated with _[Platane/snk](https://github.com/Platane/snk)_
