@@ -5,34 +5,59 @@
 ### 👨🏻‍💻 &nbsp;About Me
 
 * 🎓 &nbsp; I'm a Computer Engineering graduate from **Goa College of Engineering**.
-* 💼 &nbsp; Currently working as a **Software Engineer** at **Persistent Systems**.
+* 💼 &nbsp; Currently working as a **Senior Software Engineer** at **Persistent Systems**.
 * 💡 &nbsp; I enjoy building software solutions and exploring new technologies.
-* 🌱 &nbsp; I'm on track for learning more about **[Your Current Learning Goal, e.g., Cloud Native/DevOps]**.
-* ✍️ &nbsp; In my free time, I like to **[Your Hobby, e.g., play cricket or read books]**.
+* 🌱 &nbsp; I'm on track for learning more about **Cloud Native/DevOps**.
+* ✍️ &nbsp; In my free time, I like to **play cricket, read books**.
 * 💬 &nbsp; Feel free to reach out to me for interesting discussions, collaborations, or just to say hi!
-* ✉️ &nbsp; You can shoot me an email at **[rahulssv1181@gmail.com]**! I'll try to respond as soon as I can.
+* ✉️ &nbsp; You can shoot me an email at **rahulssv1181@gmail.com**! I'll try to respond as soon as I can.
 
 <br/>
 
-### 🖥️ &nbsp;My Skill Set
+### 🖥️ My Tech Stack
 
-![Python](https://img.shields.io/badge/-Python-05122A?style=for-the-badge&logo=python)&nbsp;
-![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=for-the-badge&logo=javascript)&nbsp;
-![Java](https://img.shields.io/badge/-Java-05122A?style=for-the-badge&logo=openjdk)&nbsp;
-![C++](https://img.shields.io/badge/-C++-05122A?style=for-the-badge&logo=cplusplus)&nbsp;
-![C](https://img.shields.io/badge/-C-05122A?style=for-the-badge&logo=c)&nbsp;
-![HTML](https://img.shields.io/badge/-HTML-05122A?style=for-the-badge&logo=HTML5)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-05122A?style=for-the-badge&logo=CSS3&logoColor=1572B6)&nbsp;
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=for-the-badge&logo=bootstrap&logoColor=563D7C)&nbsp;
-![React](https://img.shields.io/badge/-React-05122A?style=for-the-badge&logo=react)&nbsp;
-![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=for-the-badge&logo=nodedotjs)&nbsp;
-![MongoDB](https://img.shields.io/badge/-MongoDB-05122A?style=for-the-badge&logo=mongodb)&nbsp;
-![Flutter](https://img.shields.io/badge/-Flutter-05122A?style=for-the-badge&logo=flutter)&nbsp;
-![SQL](https://img.shields.io/badge/-SQL-05122A?style=for-the-badge&logo=MySQL)&nbsp;
-![Git](https://img.shields.io/badge/-Git-05122A?style=for-the-badge&logo=git)&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=for-the-badge&logo=github)&nbsp;
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC)&nbsp;
+#### ⚡ Languages & Frameworks
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
 
+#### 🌐 Frontend Development
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+
+#### 🚀 DevOps & CI/CD
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
+![Terragrunt](https://img.shields.io/badge/Terragrunt-000000?style=for-the-badge&logo=terragrunt&logoColor=white)
+![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+#### ☁️ Cloud & Infrastructure
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![IBM Cloud](https://img.shields.io/badge/IBM_Cloud-0043CE?style=for-the-badge&logo=ibmcloud&logoColor=white)
+![PowerVS](https://img.shields.io/badge/PowerVS-0043CE?style=for-the-badge&logo=ibm&logoColor=white)
+
+#### 💾 Databases & Messaging
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)
+![CouchDB](https://img.shields.io/badge/CouchDB-E4002B?style=for-the-badge&logo=apachecouchdb&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![SQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+#### 📊 Monitoring
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
 <br/><br/><br/>
 
 [![Rahul's Github Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=rahulssv&theme=rogue)](https://github.com/rahulssv)
