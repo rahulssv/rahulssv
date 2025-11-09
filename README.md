@@ -1,36 +1,86 @@
+<p align="center">
+  <img alt="Rahul Vishwakarma" src="assets/name.svg">
+</p>
 
-### Hey 👋, I'm **Rahul Vishwakarma** 👨‍💻
+### 👨🏻‍💻 &nbsp;About Me
 
-### About me :eyes:
-  - 👨‍🎓Computer Engineering Student from Goa College of Engineering.
-  - Software Engineer @ Persistent Systems LTD
-
-<img width="60%" src="https://github-readme-stats.vercel.app/api?username=rahulssv&show_icons=true&theme=tokyonight" />
-
-### Languages and Tools :computer:
+* 🎓 &nbsp; I'm a Computer Engineering graduate from **Goa College of Engineering**.
+* 💼 &nbsp; Currently working as a **Software Engineer** at **Persistent Systems**.
+* 💡 &nbsp; I enjoy building software solutions and exploring new technologies.
+* 🌱 &nbsp; I'm on track for learning more about **[Your Current Learning Goal, e.g., Cloud Native/DevOps]**.
+* ✍️ &nbsp; In my free time, I like to **[Your Hobby, e.g., play cricket or read books]**.
+* 💬 &nbsp; Feel free to reach out to me for interesting discussions, collaborations, or just to say hi!
+* ✉️ &nbsp; You can shoot me an email at **[rahulssv1181@gmail.com]**! I'll try to respond as soon as I can.
 
 <br/>
-<code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
-<code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>
-<code><img height="25" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/cpp/cpp.png"></code>
-<code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png"></code>
-<code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
-<code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
-<code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png"></code>
-<code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
-<code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
-<code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png"></code>
-<code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png"></code>
-<code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png"></code><br/>
+
+### 🖥️ &nbsp;My Skill Set
+
+![Python](https://img.shields.io/badge/-Python-05122A?style=for-the-badge&logo=python)&nbsp;
+![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=for-the-badge&logo=javascript)&nbsp;
+![Java](https://img.shields.io/badge/-Java-05122A?style=for-the-badge&logo=openjdk)&nbsp;
+![C++](https://img.shields.io/badge/-C++-05122A?style=for-the-badge&logo=cplusplus)&nbsp;
+![C](https://img.shields.io/badge/-C-05122A?style=for-the-badge&logo=c)&nbsp;
+![HTML](https://img.shields.io/badge/-HTML-05122A?style=for-the-badge&logo=HTML5)&nbsp;
+![CSS](https://img.shields.io/badge/-CSS-05122A?style=for-the-badge&logo=CSS3&logoColor=1572B6)&nbsp;
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=for-the-badge&logo=bootstrap&logoColor=563D7C)&nbsp;
+![React](https://img.shields.io/badge/-React-05122A?style=for-the-badge&logo=react)&nbsp;
+![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=for-the-badge&logo=nodedotjs)&nbsp;
+![MongoDB](https://img.shields.io/badge/-MongoDB-05122A?style=for-the-badge&logo=mongodb)&nbsp;
+![Flutter](https://img.shields.io/badge/-Flutter-05122A?style=for-the-badge&logo=flutter)&nbsp;
+![SQL](https://img.shields.io/badge/-SQL-05122A?style=for-the-badge&logo=MySQL)&nbsp;
+![Git](https://img.shields.io/badge/-Git-05122A?style=for-the-badge&logo=git)&nbsp;
+![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=for-the-badge&logo=github)&nbsp;
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC)&nbsp;
+
+<br/><br/><br/>
+
+[![Rahul's Github Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=rahulssv&theme=rogue)](https://github.com/rahulssv)
+
 <br/>
 
-### Reach out to me 👓
+### ⚖️ &nbsp;Github Statistics
 
-|                                                                                                                                                                                                        <img src="https://i.ibb.co/d2x8jD3/icon-programmer-14.png" width="150px" height="150px" /></a>                                                                                                                                                                                                        |
-| :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
-|                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           |
-| <a href="https://twitter.com/rahulssv_"><img src="https://i.ibb.co/kmgQVyW/twitter.png" width="32px" height="32px"></a> <a href="https://github.com/rahulssv"><img src="https://cdn.iconscout.com/icon/free/png-256/github-108-438008.png" width="32px" height="32px"></a> <a href="https://www.facebook.com/profile.php?id=100010063185148"><img src="https://i.ibb.co/zmYNW4p/facebook.png" width="32px" height="32px"></a> <a href="https://www.linkedin.com/in/rahulssv/"><img src="https://i.ibb.co/Kx2GSrT/linkedin.png" width="32px" height="32px"></a> |
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=rahulssv&show_icons=true&hide_border=true&theme=radical" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=rahulssv&hide_border=true&theme=radical" />
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rahulssv&hide_border=true&theme=radical&layout=compact" align="center"/>
+</p>
 
-[![@rahulssv's Holopin board](https://holopin.io/api/user/board?user=rahulssv)](https://holopin.io/@rahulssv)
+<br/>
 
+### 🤝🏻 &nbsp;Connect with Me
+
+<div align="center">
+<a href="https://github.com/rahulssv" target="_blank" rel="noopener">
+<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+</a>
+<a href="https://www.linkedin.com/in/rahulssv/" target="_blank" rel="noopener">
+<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+</a>
+<a href="https://twitter.com/rahulssv_" target="_blank" rel="noopener">
+<img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
+</a>
+<a href="https://www.facebook.com/profile.php?id=100010063185148" target="_blank" rel="noopener">
+<img src=https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white alt=facebook style="margin-bottom: 5px;" />
+</a>
+<a href="mailto:rahulssv1181@gmail.com" target="_blank" rel="noopener">
+<img src=https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white alt=mail style="margin-bottom: 5px;" />
+</a>
+</div>
+
+<br/>
+
+<p align="center">
+  <a href="https://holopin.io/@rahulssv">
+    <img src="https://holopin.io/api/user/board?user=rahulssv" alt="@rahulssv's Holopin board">
+  </a>
+</p>
+
+<br/>
+
+<div align="center">
+<img src="https://komarev.com/ghpvc/?username=rahulssv&label=PROFILE+VIEWS&color=green&style=flat-square" align="center" />
+</div>
